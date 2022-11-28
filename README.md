@@ -1,1 +1,3 @@
-# to-do-list-with-react
+## Tralho integrado - CSS Avançado
+
+Primeiramente, o projeto foi feito em react, que foi o framework JS recomendado pelo professor. Como framework CSS, eu escolhi utilizar o Tailwind CSS. Por ser um projeto relativamente simples e pequeno, que não necessitava de nenhum componente complexo, o tailwind me serveria muito bem, pois não precisei esrever praticamente nenhum CSS. Apenas usei as classes disponibilizadas pelo framework. Como estratégia de estruturação de layout, escolhi o flexbox, pois os elementos em que eu pensei, estão igualmente espaçados e alinhados, facilitando, para mim, a construção do projeto.
